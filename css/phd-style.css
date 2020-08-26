@@ -1,0 +1,47 @@
+.wrapper .main-content-phd{
+    width: 100%;
+    margin-right: 100px;
+    margin-left: 310px;
+
+}
+
+.wrapper .main-content-phd .header{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: whitesmoke;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    border-bottom: 5px solid darkgrey;
+}
+
+.wrapper .main-content-phd .box1{
+    width:100%;
+    height: 100%;
+    background-color: whitesmoke;
+    border-bottom: 2px solid darkgrey;
+}
+
+
+.wrapper .main-content-phd .box1 .block{
+    float:left;
+    width: 110px;
+    height: 60px;
+    border: 2px solid lightgrey;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 5px;
+    background: white;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.wrapper .main-content-phd .box1 .block a{
+    float:left;
+    display: block;
+    line-height: 40px;
+    text-align: center;
+    color: black;
+}
